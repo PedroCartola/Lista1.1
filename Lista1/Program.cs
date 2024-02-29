@@ -23,3 +23,5 @@ for(int j=0; j<10; j++)
 }
 
 Console.WriteLine("Maior salário é: " + cont);
+
+// "Sua forma humana é um confinamento. Você podia ser infinito" Eu sou o suficiente -Yorick
